@@ -47,6 +47,8 @@ namespace RpgApi.Controllers
                 await _context.TB_PERSONAGENS_HABILIDADES.AddAsync(ph);
                 int linhasAfetadas = await _context.SaveChangesAsync();
 
+
+                
                 return Ok(linhasAfetadas);
             }
             catch (System.Exception ex)

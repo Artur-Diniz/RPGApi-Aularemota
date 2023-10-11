@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using RpgApi.Models;
 using RpgApi.Utils;
 
+
 namespace RpgApi.Controllers;
 
 [ApiController]
@@ -34,7 +35,7 @@ public class UsuariosController : ControllerBase
 
     }
 
-    [HttpPost("Registrar")]
+    [HttpPost("Registro")]
     public async Task<IActionResult> RegistrarUsuario(Usuario user)
     {
         try
@@ -92,4 +93,27 @@ public class UsuariosController : ControllerBase
             return BadRequest(ex.Message);
         }
     }
+    [HttpPut]
+    [Route("AlterarSenha")]
+    public IActionResult AlterarSenha(Usuario usuario, Criptografia criptografia, Usuario credenciais)
+    {
+        // Valida se a senha atual está correta
+        if (!Criptografia.VerificarPasswordHash(credenciais.PasswordString, usuario.PasswordHash, usuario.PasswordSalt))
+        {
+            return BadRequest("Senha atual incorreta.");
+        }
+
+        // Criptografa a nova senha
+        usuario.PasswordString = new novaSenha(System.Security.Cryptography.HMACSHA512) ;
+
+        // Altera a senha no banco de dados
+        _context.TB_USUARIOS.Update(usuario);
+        _context.SaveChanges();
+
+        // Retornar o status 200
+        return Ok();
+    }
+    
+    [HttpGet]
+    []
 }

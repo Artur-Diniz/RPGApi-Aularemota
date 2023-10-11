@@ -2,6 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
 
 namespace RpgApi.Utils
 {
@@ -34,6 +38,18 @@ namespace RpgApi.Utils
             return true;
         }
     }
+    private string CriptografarSenha(string senha)
+{
+    // Cria um novo salt
+    var salt = Guid.NewGuid().ToString();
+
+    // Cria um novo hash da senha com o salt
+    var hash = SHA256.Create().ComputeHash(Encoding.UTF8.GetBytes(senha + salt));
+
+    // Retorna o hash codificado em Base64
+    return Convert.ToBase64String(hash);
+}
+
 
         
     }
