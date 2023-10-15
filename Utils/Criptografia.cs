@@ -2,10 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System;
-using System.Security.Cryptography;
-using System.Text;
-
 
 namespace RpgApi.Utils
 {
@@ -23,33 +19,21 @@ namespace RpgApi.Utils
 
         
         public static bool VerificarPasswordHash(string password, byte[] hash, byte[] salt)
-    {
-        using (var hmac = new System.Security.Cryptography.HMACSHA512(salt))
-        {
-            var computedHash =
-              hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-            for (int i = 0; i < computedHash.Length; i++)
+        {   
+            using (var hmac = new System.Security.Cryptography.HMACSHA512(salt))
             {
-                if (computedHash[i] != hash[i])
+                var computedHash =
+                hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
+                for (int i = 0; i < computedHash.Length; i++)
                 {
-                    return false;
+                    if (computedHash[i] != hash[i])
+                    {
+                        return false;
+                    }
                 }
+                return true;
             }
-            return true;
         }
-    }
-    private string CriptografarSenha(string senha)
-{
-    // Cria um novo salt
-    var salt = Guid.NewGuid().ToString();
-
-    // Cria um novo hash da senha com o salt
-    var hash = SHA256.Create().ComputeHash(Encoding.UTF8.GetBytes(senha + salt));
-
-    // Retorna o hash codificado em Base64
-    return Convert.ToBase64String(hash);
-}
-
 
         
     }
