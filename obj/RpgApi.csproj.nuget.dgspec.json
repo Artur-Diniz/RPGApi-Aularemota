@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RpgApi\\RpgApi.csproj": {}
+    "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RpgApi\\RpgApi.csproj": {
+    "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RpgApi\\RpgApi.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RpgApi\\RpgApi.csproj",
+        "projectPath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RpgApi\\obj\\",
+        "outputPath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

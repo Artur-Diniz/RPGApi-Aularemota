@@ -4,6 +4,8 @@ using RpgApi.Models;
 using RpgApi.Data;
 using System.Diagnostics.CodeAnalysis;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
 
 
 namespace RpgApi.Controllers
@@ -62,6 +64,60 @@ namespace RpgApi.Controllers
 
         }
 
+        [HttpGet("GetbyId/{id}")]
+        public async Task<IActionResult> ListaPersonagemHabilidades(int Id )
+        {
+            try
+            {
+               
+                    List<PersonagemHabilidade> Lista = await _context.TB_PERSONAGENS_HABILIDADES.ToListAsync();
+                       
+                
+                    return Ok(Lista);
+
+                
+                   
+                
+
+
+            }
+            catch(System.Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
+
+        [HttpGet("GetHabilidades")]
+        public async Task<IActionResult> ListaHabilidades( PersonagemHabilidade Habilidade )
+        {
+
+            try
+            {   
+                List<PersonagemHabilidade> habilidade = await _context.TB_PERSONAGENS_HABILIDADES.ToListAsync();
+                return Ok (Habilidade);
+
+            }
+            catch(System.Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        // [HttpPost("DeletePersonagemHabilidade")]
+        // public async Task<IActionResult> DeletePH( Personagem id)
+        // {
+
+        //     try
+        //     {
+
+
+        //     }
+        //     catch(System.Exception ex)
+        //     {
+        //         return BadRequest(ex.Message);
+        //     }
+        // }
     }
  }
  

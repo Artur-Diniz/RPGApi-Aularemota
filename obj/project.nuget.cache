@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dzy30Zo3AOurFV5qppoau+Q77GFMqAcnoUwyBV2GpTE1TvkOhPesKfOJt/nsiHlivQxaUNudPSeOBear2qawKA==",
+  "dgSpecHash": "rwHv73hNLO9FQyAYklxZeLIPkcfw5B0SrKvvKTt9TPlNbzw2M8sJ97daddC9t3Ny+1D2uL/fzj6GWtTzAoA58w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RpgApi\\RpgApi.csproj",
+  "projectFilePath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\artur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

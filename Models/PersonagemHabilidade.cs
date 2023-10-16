@@ -11,5 +11,10 @@ namespace RpgApi.Models
         public Personagem Personagem { get; set; }
         public int HabilidadeId { get; set; }
         public Habilidade Habilidade { get; set; }
+
+        internal static object FirstOrDefault(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

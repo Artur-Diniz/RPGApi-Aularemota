@@ -22,7 +22,7 @@ namespace RpgApi.Controllers
 
 
         [HttpGet("{id}")] //Buscar pelo id
-        public async Task<IActionResult> GetSingle(int id)
+        public async Task<IActionResult> GetSingle(int id, Usuario user)
         {
             try
             {
@@ -31,7 +31,9 @@ namespace RpgApi.Controllers
                 .Include(ar => ar.Arma)
                 .Include(ph => ph.PersonagemHabilidades)
                     .ThenInclude(h => h.Habilidade)
+                    .Include(u => u.Usuario)
                 .FirstOrDefaultAsync(pBusca => pBusca.Id == id);
+
 
                 return Ok(p);
             }
@@ -40,6 +42,7 @@ namespace RpgApi.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
 
         [HttpGet("GetAll")]
         public async Task<IActionResult> Get()
