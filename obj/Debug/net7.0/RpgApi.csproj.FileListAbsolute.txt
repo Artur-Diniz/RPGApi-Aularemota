@@ -448,91 +448,78 @@ C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi
 C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
 C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
 C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\publish\web.config
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\publish\appsettings.Development.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\publish\appsettings.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\publish\RpgApi.deps.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\publish\RpgApi.runtimeconfig.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RpgApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\appsettings.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.exe
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.deps.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.runtimeconfig.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.pdb
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Humanizer.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\refint\RpgApi.dll
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.pdb
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
-C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RpgApi\RPGApi-Aularemota\obj\Debug\net7.0\ref\RpgApi.dll
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\appsettings.Development.json
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\appsettings.json
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.exe
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.deps.json
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\RpgApi.pdb
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Azure.Core.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Azure.Identity.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Humanizer.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.CodeDom.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Memory.Data.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS_Artur\RPGApi-Aularemota\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets.build.json
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\staticwebassets.development.json
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.dll
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\refint\RpgApi.dll
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.pdb
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\2DS_Artur\RPGApi-Aularemota\obj\Debug\net7.0\ref\RpgApi.dll

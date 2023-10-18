@@ -48,37 +48,21 @@ namespace RpgApi.Controllers
                 return BadRequest(ex.Message);
             }
         }
-        
+
         [HttpPost]
-        public async Task<IActionResult> add(Arma novaArma) 
+        public async Task<IActionResult> Add(Arma novaArma)
         {
             try
             {
-                
-                if(novaArma.Dano == 0)
-                    throw new Exception("O dano da arma tem que ser maior que 0.");
-
-                Personagem p = await _context.TB_PERSONAGENS
-                    .FirstOrDefaultAsync(p => p.Id == novaArma.PersonagemId);
-
-                if(p == null)
-                    {
-                        throw new Exception("Não existe nem um personagem com esse Id");
-                    
-                    }
                 await _context.TB_ARMAS.AddAsync(novaArma);
                 await _context.SaveChangesAsync();
 
                 return Ok(novaArma.Id);
-
-
             }
             catch (System.Exception ex)
             {
-
                 return BadRequest(ex.Message);
             }
-
         }
 
         [HttpPut]
@@ -86,15 +70,6 @@ namespace RpgApi.Controllers
         {
             try
             {
-                Personagem p = await _context.TB_PERSONAGENS
-                    .FirstOrDefaultAsync(p => p.Id == novaArma.PersonagemId);
-
-                if(p == null)
-                    {
-                     throw new Exception("Não existe nem um personagem com esse Id");
-                    
-                    }
-
                 _context.TB_ARMAS.Update(novaArma);
                 int linhaAfetadas = await _context.SaveChangesAsync();
 
@@ -124,7 +99,38 @@ namespace RpgApi.Controllers
             }
         }
 
-      
+        [HttpPost]
+        public async Task<IActionResult> add(Arma novaArma)
+        {
+            try
+            {
+
+                if (novaArma.Dano == 0)
+                    throw new Exception("O dano da arma tem que ser maior que 0.");
+
+                Personagem p = await _context.TB_PERSONAGENS
+                    .FirstOrDefaultAsync(p => p.Id == novaArma.PersonagemId);
+
+                if (p == null)
+                {
+                    throw new Exception("Não existe nem um personagem com esse Id");
+
+                }
+                await _context.TB_ARMAS.AddAsync(novaArma);
+                await _context.SaveChangesAsync();
+
+                return Ok(novaArma.Id);
+
+
+            }
+            catch (System.Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+
+        }
+
 
 
 

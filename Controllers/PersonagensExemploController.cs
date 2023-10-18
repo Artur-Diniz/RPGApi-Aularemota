@@ -73,7 +73,6 @@ namespace RpgApi.Controllers
         [HttpGet("GetByForca/{forca}")]
         public IActionResult GetByForca(int forca)
         {
-            
             return Ok(personagens.FirstOrDefault(x => x.Forca == forca));
         }
 
