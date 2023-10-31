@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2DS_Artur\\RPGApi-Aularemota\\RpgApi.csproj": {}
+    "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj": {}
   },
   "projects": {
-    "D:\\2DS_Artur\\RPGApi-Aularemota\\RpgApi.csproj": {
+    "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2DS_Artur\\RPGApi-Aularemota\\RpgApi.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "D:\\2DS_Artur\\RPGApi-Aularemota\\RpgApi.csproj",
-        "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\2DS_Artur\\RPGApi-Aularemota\\obj\\",
+        "projectPath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\RpgApi.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\RpgApi\\RPGApi-Aularemota\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +46,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -79,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

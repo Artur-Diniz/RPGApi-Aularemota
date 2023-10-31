@@ -13,7 +13,7 @@ namespace RpgApi.Controllers
     [Route("[controller]")]
     public class PersonagemHabilidadesController : ControllerBase
     {
-        private readonly DataContext _context;
+        public readonly DataContext _context;
 
         public PersonagemHabilidadesController(DataContext context)
         {
@@ -93,6 +93,26 @@ namespace RpgApi.Controllers
             }
         }
 
+         [HttpPost("DeletePersonagemHabilidade")]
+        public async Task<IActionResult> DeleteAsync(PersonagemHabilidade ph)
+        {
+            try
+            {
+                PersonagemHabilidade phRemover = await _context.TB_PERSONAGENS_HABILIDADES
+                    .FirstOrDefaultAsync(phBusca => phBusca.PersonagemId == ph.PersonagemId
+                     && phBusca.HabilidadeId == ph.HabilidadeId);
+                if(phRemover == null)
+                    throw new System.Exception("Personagem ou Habilidade não encontrados");
+
+                _context.TB_PERSONAGENS_HABILIDADES.Remove(phRemover);
+                int linhasAfetadas = await _context.SaveChangesAsync();
+                return Ok(linhasAfetadas);
+            }
+            catch (System.Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
 
     }
 }
